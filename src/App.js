@@ -1,4 +1,4 @@
-import InitialPage from "./Pages/InitialPage";
+import InitialPage from "./pages/InitialPage";
 
 export default function App() {
   return <InitialPage />;
