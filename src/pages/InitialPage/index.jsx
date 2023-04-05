@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import Menu from "../../components/Menu";
 import banner from "./banner.png";
@@ -15,6 +16,7 @@ export default function InitialPage() {
             <img src={banner} alt="A imagem da terra vista do espaço" />
           </div>
         </section>
+        <Footer />
       </main>
     </>
   );
