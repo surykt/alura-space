@@ -18,7 +18,7 @@ export default function InitialPage() {
           </div>
         </section>
       </main>
-      <div>
+      <div className={styles.gallery}>
         <Gallery />
       </div>
       <Footer />
