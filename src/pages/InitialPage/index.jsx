@@ -16,8 +16,8 @@ export default function InitialPage() {
             <img src={banner} alt="A imagem da terra vista do espaço" />
           </div>
         </section>
-        <Footer />
       </main>
+      <Footer />
     </>
   );
 }
